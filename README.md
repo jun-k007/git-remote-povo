@@ -1,3 +1,3 @@
 # git-remote-povo
 
-新機機能追あk
+新機機能追加
